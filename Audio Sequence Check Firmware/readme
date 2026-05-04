@@ -1,0 +1,4 @@
+This STMCube Firmware play audio in sequence 
+Whenever Play in incorrect orders upload this firmware to verify correct order of TF Card ( SD Card ) Audios
+
+if File order is incorrect than Format memory card and upload files one by one because DFPlayerMini Consider File sequence of Time
